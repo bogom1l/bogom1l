@@ -1,5 +1,5 @@
 <div align="center">
- <a href="#"><img src="https://i.ibb.co/GJpwRB1/jacque-fresco-quote.jpg" alt="jacque-fresco-quote" border="0" width="400" height="250" ></a>
+ <a href="#"><img src="https://i.ibb.co/GJpwRB1/jacque-fresco-quote.jpg" alt="jacque-fresco-quote" border="0" width="500" height="350" ></a>
 </div>
 
 <hr>
