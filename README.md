@@ -3,7 +3,3 @@
 </div>
 
 <hr>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogom1l&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="bogi" /></p>
-</div>
